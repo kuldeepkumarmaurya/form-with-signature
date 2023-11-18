@@ -2,9 +2,18 @@
     font-size: 50px;
     font-weight: 900;
     text-align: center;
+    color: rgb(19, 172, 172);
 }
 #Details_heading{
     font-size: 30px;
     font-weight: 600;
     /* text-align: center; */
+}
+.colour {
+    color: rgb(19, 172, 172);
+}
+.lastbut{
+    background-color: rgb(19, 172, 172);
+    font-size: 20px;
+    border-radius: 10px;
 }
